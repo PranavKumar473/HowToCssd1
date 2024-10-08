@@ -1,0 +1,53 @@
+.drive{
+    width:320px;
+    height:500px;
+    margin:20px auto;
+    border:1px solid lightgray;
+    border-radius: 10px;;
+    
+}
+
+.img{
+    width:100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.content{
+    margin:1px 13px;
+}
+
+.icon{
+    display: flex ;
+    align-items: center;
+    gap: 12px;
+}
+
+.subscribe{
+    color:grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.features{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: -10px;
+
+}
+
+.moments{
+    color:gray;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Geneva, Tahoma, sans-serif, 'Times New Roman', Times, serif, 'Times New Roman', Times, serif;
+}
+
+.btn{
+    margin:12px 20px;
+    padding:10px 22px;
+    border-radius: 5px;
+    border:1px solid lightgray;
+    color:lightseagreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Tahoma, Geneva, Verdana, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    font-size: 15px;
+    font-weight: bold;
+}

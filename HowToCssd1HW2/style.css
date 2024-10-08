@@ -1,0 +1,50 @@
+.Profile{
+    border: 1px solid lightgray;
+    margin:30px;
+    width: 400px;
+    height:320px;
+    padding:25px;
+
+}
+
+.flexbox{
+    display: flex;
+    gap:15px;
+}
+
+.font{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.font-p{
+    color:gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.footer{
+    margin:30px 10px;
+    color:hsla(212, 100%, 50%, 0.801)
+}
+
+.padding{
+    padding-top: 20px;
+    font-size: 19px;
+    border-top:1px solid lightgray;
+}
+
+.img{
+width:80px;
+height:80px;
+object-fit: cover;
+border-radius: 200%;
+padding:16px 60px;
+
+}
+.img-a{
+    display: flex;
+    width:80px;
+    height:80px;
+    object-fit: cover;
+    border-radius: 200%;
+    padding: 20px;
+}

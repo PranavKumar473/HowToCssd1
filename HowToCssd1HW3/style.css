@@ -1,0 +1,21 @@
+.bg{
+    background-color: lawngreen;
+    margin:12px auto;
+    width:304px;
+    height:270px;
+    padding:30px;
+    border-radius: 8px;
+
+}
+p{
+    font-size:12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn{
+    margin-top: 12px;
+   padding: 13px 45px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   border-radius: 80px;
+   border:none;
+}
